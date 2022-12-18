@@ -8,7 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="orange">#DC812C</color>
-    <color name="BGGreen">#395551</color>
-    <color name="BTNGreen">#3E5C58</color>
+    <color name="BGGreen">#000000</color>
+    <color name="BTNGreen">#8C4E7F</color>
     <color name="light_green">#C1DAD7</color>
 </resources>

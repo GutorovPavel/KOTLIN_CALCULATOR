@@ -184,7 +184,7 @@
             style="@style/buttonStyle"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="2.03"
+            android:layout_weight="0.985"
             android:text="0"
             android:textAlignment="gravity" />
 
@@ -201,7 +201,7 @@
             style="@style/buttonStyle"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="0.985"
+            android:layout_weight="2.03"
             android:text="=" />
 
     </LinearLayout>

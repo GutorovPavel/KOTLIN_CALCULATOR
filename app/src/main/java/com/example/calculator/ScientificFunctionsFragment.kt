@@ -1,4 +1,4 @@
-package com.example.lab3
+package com.example.calculator
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.os.bundleOf
 import androidx.fragment.app.setFragmentResult
-import com.example.lab3.databinding.FragmentScientificFunctionsBinding
+import com.example.calculator.databinding.FragmentScientificFunctionsBinding
 
 class ScientificFunctionsFragment : Fragment() {
 

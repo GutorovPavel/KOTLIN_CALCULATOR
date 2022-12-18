@@ -1,11 +1,8 @@
-package com.example.lab3
+package com.example.calculator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.widget.Button
-import androidx.fragment.app.FragmentManager
-import com.example.lab3.databinding.ActivityMainBinding
+import com.example.calculator.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
